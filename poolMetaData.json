@@ -1,6 +1,8 @@
 {
-"name": "SPO JAPAN GUILD POOL",
-"description": "My pool description",
-"ticker": "SJG",
-"homepage": "https://spojapanguild.net"
+    "name": "SPO JAPAN GUILD POOL",
+    "description": "Japan's Largest Cardano Stake Pool Operator Community",
+    "ticker": "SJG",
+    "homepage": "https://spojapanguild.net",
+    "extended": "",
+    "nonce":"1704457627"
 }
